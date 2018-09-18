@@ -3,7 +3,7 @@ Tableau Story on Baseball Player Data
 
 This is an exploratory data analysis (EDA) using Tableau visualization to explore and demonstrate a story about the physical factors and the performance of 1157 baseball players.
 
-# # Introduction
+# Introduction
 The data set includes player name,	handedness,	height,	weight,	average batting, and home run.
 The analysis is based on the relationships between performance and biological characristics from the data set. 
 
