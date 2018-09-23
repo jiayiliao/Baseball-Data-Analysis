@@ -7,7 +7,7 @@ This is an exploratory data analysis (EDA) using Tableau visualization to explor
 The data set includes player name,	handedness,	height,	weight,	average batting, and home run.
 The analysis is based on the relationships between performance and biological characristics from the data set. 
 
-First Visualization :- https://public.tableau.com/profile/jiayi.liao#!/vizhome/BaseballDataFirstDraft/Dashboard3?publish=yes
+First Visualization :- https://public.tableau.com/profile/jiayi.liao#!/vizhome/shared/J9Z9W2XKG
 
 Final Visualization :- https://public.tableau.com/profile/jiayi.liao#!/vizhome/BaseballData_25/Story1
 
@@ -62,3 +62,4 @@ Initial design used bar chart with color to look at home run and average batting
 - Median batting among all groups are very close.
 - Looking at distribution in home run, left handed player performance has a wider range and the average is higher. 
 - Right handed player's batting average has a wider range than the other groups.
+- Left handed player have both higher median batting average and total home run.
