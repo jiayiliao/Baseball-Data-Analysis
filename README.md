@@ -20,7 +20,9 @@ Final Visualization :- https://public.tableau.com/profile/jiayi.liao#!/vizhome/B
 ## Initial Design
 
 The initial design was to explore the player performance by handedness. 
-Initial design used bar chart with color to look at home run and average batting by handedness, the visualization also uses box plot for exploring distribution.## Visualization
+Initial design used bar chart with color to look at home run and average batting by handedness, the visualization also uses box plot for exploring distribution.
+
+## Visualization
 
  - Dashboard 1 uses bar charts below show the breakdown of the handedness of the players in the data set, and HR and batting averages of the same data set. 
  
